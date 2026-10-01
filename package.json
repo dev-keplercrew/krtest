@@ -1,0 +1,11 @@
+{
+  "name": "frost-and-cream",
+  "version": "1.0.0",
+  "description": "Frost & Cream — a small-batch ice cream shop web app.",
+  "private": true,
+  "scripts": {
+    "start": "npx --yes http-server -p 8000 -c-1 -s .",
+    "test": "node --test tests/"
+  },
+  "license": "MIT"
+}
