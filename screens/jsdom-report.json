@@ -1,0 +1,313 @@
+{
+  "results": [
+    {
+      "route": "home",
+      "ok": true,
+      "appChars": 3168,
+      "hasHeader": true,
+      "hasFooter": true,
+      "counts": {
+        "buttons": 15,
+        "svgs": 16,
+        "links": 57,
+        "forms": 2
+      },
+      "errors": []
+    },
+    {
+      "route": "shop",
+      "ok": true,
+      "appChars": 2057,
+      "hasHeader": true,
+      "hasFooter": true,
+      "counts": {
+        "buttons": 5,
+        "svgs": 17,
+        "links": 51,
+        "forms": 1
+      },
+      "errors": []
+    },
+    {
+      "route": "shop-seasonal",
+      "ok": true,
+      "appChars": 439,
+      "hasHeader": true,
+      "hasFooter": true,
+      "counts": {
+        "buttons": 5,
+        "svgs": 5,
+        "links": 39,
+        "forms": 1
+      },
+      "errors": []
+    },
+    {
+      "route": "shop-vegan",
+      "ok": true,
+      "appChars": 424,
+      "hasHeader": true,
+      "hasFooter": true,
+      "counts": {
+        "buttons": 5,
+        "svgs": 5,
+        "links": 39,
+        "forms": 1
+      },
+      "errors": []
+    },
+    {
+      "route": "product",
+      "ok": true,
+      "appChars": 1285,
+      "hasHeader": true,
+      "hasFooter": true,
+      "counts": {
+        "buttons": 8,
+        "svgs": 7,
+        "links": 32,
+        "forms": 1
+      },
+      "errors": []
+    },
+    {
+      "route": "cart-empty",
+      "ok": true,
+      "appChars": 113,
+      "hasHeader": true,
+      "hasFooter": true,
+      "counts": {
+        "buttons": 6,
+        "svgs": 3,
+        "links": 30,
+        "forms": 1
+      },
+      "errors": []
+    },
+    {
+      "route": "cart-filled",
+      "ok": true,
+      "appChars": 333,
+      "hasHeader": true,
+      "hasFooter": true,
+      "counts": {
+        "buttons": 13,
+        "svgs": 5,
+        "links": 35,
+        "forms": 1
+      },
+      "errors": []
+    },
+    {
+      "route": "checkout",
+      "ok": true,
+      "appChars": 437,
+      "hasHeader": true,
+      "hasFooter": true,
+      "counts": {
+        "buttons": 6,
+        "svgs": 3,
+        "links": 29,
+        "forms": 2
+      },
+      "errors": []
+    },
+    {
+      "route": "login",
+      "ok": true,
+      "appChars": 142,
+      "hasHeader": true,
+      "hasFooter": true,
+      "counts": {
+        "buttons": 6,
+        "svgs": 3,
+        "links": 31,
+        "forms": 2
+      },
+      "errors": []
+    },
+    {
+      "route": "signup",
+      "ok": true,
+      "appChars": 198,
+      "hasHeader": true,
+      "hasFooter": true,
+      "counts": {
+        "buttons": 6,
+        "svgs": 3,
+        "links": 30,
+        "forms": 2
+      },
+      "errors": []
+    },
+    {
+      "route": "recover",
+      "ok": true,
+      "appChars": 174,
+      "hasHeader": true,
+      "hasFooter": true,
+      "counts": {
+        "buttons": 6,
+        "svgs": 3,
+        "links": 30,
+        "forms": 2
+      },
+      "errors": []
+    },
+    {
+      "route": "about",
+      "ok": true,
+      "appChars": 1677,
+      "hasHeader": true,
+      "hasFooter": true,
+      "counts": {
+        "buttons": 5,
+        "svgs": 3,
+        "links": 30,
+        "forms": 1
+      },
+      "errors": []
+    },
+    {
+      "route": "sustainability",
+      "ok": true,
+      "appChars": 1872,
+      "hasHeader": true,
+      "hasFooter": true,
+      "counts": {
+        "buttons": 5,
+        "svgs": 3,
+        "links": 29,
+        "forms": 1
+      },
+      "errors": []
+    },
+    {
+      "route": "faq",
+      "ok": true,
+      "appChars": 2136,
+      "hasHeader": true,
+      "hasFooter": true,
+      "counts": {
+        "buttons": 5,
+        "svgs": 3,
+        "links": 30,
+        "forms": 1
+      },
+      "errors": []
+    },
+    {
+      "route": "contact",
+      "ok": true,
+      "appChars": 483,
+      "hasHeader": true,
+      "hasFooter": true,
+      "counts": {
+        "buttons": 6,
+        "svgs": 3,
+        "links": 32,
+        "forms": 2
+      },
+      "errors": []
+    },
+    {
+      "route": "locations",
+      "ok": true,
+      "appChars": 1070,
+      "hasHeader": true,
+      "hasFooter": true,
+      "counts": {
+        "buttons": 5,
+        "svgs": 7,
+        "links": 33,
+        "forms": 1
+      },
+      "errors": []
+    },
+    {
+      "route": "blog",
+      "ok": true,
+      "appChars": 779,
+      "hasHeader": true,
+      "hasFooter": true,
+      "counts": {
+        "buttons": 5,
+        "svgs": 7,
+        "links": 33,
+        "forms": 1
+      },
+      "errors": []
+    },
+    {
+      "route": "blog-post",
+      "ok": true,
+      "appChars": 1206,
+      "hasHeader": true,
+      "hasFooter": true,
+      "counts": {
+        "buttons": 5,
+        "svgs": 4,
+        "links": 33,
+        "forms": 1
+      },
+      "errors": []
+    },
+    {
+      "route": "privacy",
+      "ok": true,
+      "appChars": 1000,
+      "hasHeader": true,
+      "hasFooter": true,
+      "counts": {
+        "buttons": 5,
+        "svgs": 3,
+        "links": 31,
+        "forms": 1
+      },
+      "errors": []
+    },
+    {
+      "route": "terms",
+      "ok": true,
+      "appChars": 1048,
+      "hasHeader": true,
+      "hasFooter": true,
+      "counts": {
+        "buttons": 5,
+        "svgs": 3,
+        "links": 30,
+        "forms": 1
+      },
+      "errors": []
+    },
+    {
+      "route": "not-found",
+      "ok": true,
+      "appChars": 174,
+      "hasHeader": true,
+      "hasFooter": true,
+      "counts": {
+        "buttons": 7,
+        "svgs": 3,
+        "links": 31,
+        "forms": 1
+      },
+      "errors": []
+    },
+    {
+      "route": "account",
+      "ok": true,
+      "appChars": 142,
+      "hasHeader": true,
+      "hasFooter": true,
+      "counts": {
+        "buttons": 6,
+        "svgs": 3,
+        "links": 31,
+        "forms": 2
+      },
+      "errors": []
+    }
+  ],
+  "allErrors": []
+}
